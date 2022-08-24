@@ -16,7 +16,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/sWJKTbCKnRr39gShjYPqwzhEOllkZ8ppI9EPlxHhNrvJNPUjd6YqS0kcRK_UsB3o2VqhXmIIlMupWaYR5lvSsPZnUZgzhUBRhGfPhqCke0bU7A22ORKFjh8uSOo97m1G1RBxBv_HwkEbS0yYJndHOINXtDACBpkvdn719BKiHQM3qXCGNsVby165zorsP_i64a7sqXOrReCNKnhPgwUMLSrbyD-CxtR7c0ogsYNrJdNZ7W8FGCKCE8UNSXkFVi6p1yvtqK2MSkArVxdl-5qVgaf-gLxr7ZOg4V8Mparo85FTOCjrsuUlb40R5yyN4oDgCypQuj1ij2hpPXIKpUncFdZWTcIR7Bw7FYWv0tUnZrbKWi2D7p1AOe12V7IBhY7zPTxpqgxkA0TOnFXbx5o0X2QsRRrhYPE7JkkJRCTlEIPWSIzz0hQamuU23u6Xdm5sU_1H71QlPgITkdP4kupS6HU9yVTMtGnzi_j12aD6ZDZElrJmHiJaZgR7LUp4ZIinykJIC9DFJ_w3KPsd2NR69F7Y7Gv_VItrjGH0jkd4o7hKyCU8YscE5ADJlYQthCKJkCgeL3r8zdGjnMm7pQG2SKN_AtmtSUfh1D2sv11wkLFs4wo1j0OC58XU7RVQc9_QEA-7sKPzI4MpwwD_4PyO8mIuED6JEV_2wY0dmlXpJt7tswwRdkdWfdv-k4c4a0latkNEPtdJZvl7B7pM0C-W-ZwxI-xvo4tAROHVKpf5deGITSBg-CEvy0MCJydKKF8vVoQ21BgxFkxp0P8NoRIfztR-lBebpLqTILxE=s939-no?authuser=0">
+  
 
  ##
     
