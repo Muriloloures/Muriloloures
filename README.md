@@ -29,4 +29,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Muriloloures&repo=Muriloloures&theme=highcontrast)](https://github.com/Muriloloures/Muriloloures)
+
