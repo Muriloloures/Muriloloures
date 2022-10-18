@@ -27,6 +27,8 @@
  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
+  
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Muriloloures&repo=Muriloloures&theme=highcontrast)](https://github.com/Muriloloures/Muriloloures)
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Muriloloures&repo=Muriloloures&theme=highcontrast)](https://github.com/Muriloloures/Muriloloures)
+
