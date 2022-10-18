@@ -1,7 +1,7 @@
 
 <h1> Olá! Meu nome é Murilo Loures </h1>
 
-<div style="padding: 20px;">
+<div>
   <a href="https://github.com/Muriloloures">
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Muriloloures&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muriloloures&layout=compact&langs_count=7&theme=highcontrast" />
