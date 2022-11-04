@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/murilo-loures/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:murilomlssloures@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
   
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Muriloloures&repo=Muriloloures&theme=highcontrast)](https://github.com/Muriloloures/Muriloloures)
