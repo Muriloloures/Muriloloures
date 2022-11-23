@@ -1,13 +1,13 @@
 
 <h1 align="center"> Hey, my name is Murilo Loures! ✌ </h1>
 
-<h3 align="center">
+<p align="center">
   :computer: Future full-stack developer
-</h3>
+</p>
 
-<h3 align="center">
+<p align="center">
   :rocket: I’m currently studying NodeJs and SQL.
-</h3>
+</p>
 
 <div>
   <a href="https://github.com/Muriloloures">
