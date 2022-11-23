@@ -2,11 +2,11 @@
 <h1 align="center"> Hey, my name is Murilo Loures! ✌ </h1>
 
 <h3 align="center">
-- future full-stack developer 👨‍💻
+ ###### :computer: Future full-stack developer
 </h3>
 
 <h3 align="center">
-  - studying nodejs and sql 📚
+  ###### :rocket: I’m currently studying NodeJs and SQL.
 </h3>
 
 <div>
