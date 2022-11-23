@@ -1,5 +1,5 @@
 
-<h1 color="#000"> Olá! Meu nome é Murilo Loures </h1>
+<h1 color="black"> Olá! Meu nome é Murilo Loures </h1>
 
 <div>
   <a href="https://github.com/Muriloloures">
