@@ -1,10 +1,13 @@
 
 <h1 align="center"> Hey, my name is Murilo Loures! ✌ </h1>
 
-<h2 align="center">
+<h3 align="center">
 - future full-stack developer 👨‍💻
-- studying nodejs and sql 📚
-</h2>
+</h3>
+
+<h3 align="center">
+  - studying nodejs and sql 📚
+</h3>
 
 <div>
   <a href="https://github.com/Muriloloures">
