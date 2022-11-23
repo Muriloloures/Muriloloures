@@ -33,9 +33,11 @@
  ##
     
 </div>
-  <br><a href="https://www.instagram.com/murilo_loures/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-loures/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:murilomlssloures@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a><br><br>
+  <h3 align="left">Social medias:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/aline-bury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aline-bury" height="30" width="40" /></a>
+  <a href="https://instagram.com/aline.bury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aline.bury/" height="30" width="40" /></a>
+</p>
  
  
   
