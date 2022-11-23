@@ -1,5 +1,5 @@
 
-<h1> Hey, my name is Murilo Loures! ✌ </h1>
+<h1 align="center"> Hey, my name is Murilo Loures! ✌ </h1>
 
 - future full-stack developer 👨‍💻
 - studying nodejs and sql 📚
